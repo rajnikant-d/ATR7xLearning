@@ -9,5 +9,6 @@ public class lab01 {
         int b = 10;
         boolean is_married = false;
         System.out.println(a+b);
+
     }
 }
